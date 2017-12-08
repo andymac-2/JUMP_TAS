@@ -1,0 +1,6 @@
+
+*.hi
+*.o
+*.json
+~$OverworldRouting.xlsx
+*.backup
