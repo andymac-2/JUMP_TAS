@@ -3,3 +3,5 @@ convertBk2.o
 convertBk2.hi
 SyncSettings.json
 *.backup
+Comments.txt
+*.zip
